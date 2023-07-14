@@ -16,6 +16,9 @@ Next, feature extraction methods are utilized to identify the most significant
 predictors of diabetes from the available dataset.
 Machine learning algorithms are trained and evaluated to build the system.
 
+# Block Diagram
+<img width="640" alt="blockdiagram" src="https://github.com/Amarjeet2909/Application-of-ML-based-Diabetes-Prediction-model/assets/78557124/350004d5-c696-49fa-80e7-2ed2f6c325ab">
+
 # Objectives 
 
 Following are the objectives of our project:
@@ -75,9 +78,6 @@ a Gaussian (normal) distribution. Naive Bayes calculates the probability of each
 based on the training data. It assumes that the features are conditionally independent
 given the class label. The probabilities are estimated using the Gaussian distribution
 parameters (mean and variance) for each feature.
-
-# Block Diagram
-<img width="640" alt="blockdiagram" src="https://github.com/Amarjeet2909/Application-of-ML-based-Diabetes-Prediction-model/assets/78557124/350004d5-c696-49fa-80e7-2ed2f6c325ab">
 
 # Dataset Used
 
