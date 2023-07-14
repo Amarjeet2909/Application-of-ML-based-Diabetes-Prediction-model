@@ -1,6 +1,6 @@
 # Application-of-ML-based-Diabetes-Prediction-model
 
-ABSTRACT
+# INTRO 
 Diabetes is a chronic metabolic disorder affecting millions of people worldwide.
 Early detection and accurate prediction of diabetes can play a crucial role in
 decision making for handling and prevention of complications. This project aims
